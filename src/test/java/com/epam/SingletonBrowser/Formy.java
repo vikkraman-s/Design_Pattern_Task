@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import static com.epam.PageObjectElement.WebElements.fillForm;
 import static com.epam.PageObjectElement.WebElements.submitForm;
 
-public class Browser {
+public class Formy {
     public static WebDriver driver;
     @BeforeTest
     public static void start(){
